@@ -1,4 +1,4 @@
-# Ch3.1
+# Module 03
 # Exercise: Brief Introduction and Visualization of Git Branches
 
 ## Step 1
